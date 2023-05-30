@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559653813679",
+    "project_id": "decoder-schatapp",
+    "storage_bucket": "decoder-schatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559653813679:android:5ef61da26b33e8c41ec35a",
+        "android_client_info": {
+          "package_name": "com.example.decoderchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559653813679-145b49eqvc1515rq4qaml7u7uaf3sihv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.decoderchatapp",
+            "certificate_hash": "097d2e1b463fa5b8075cc1a1198288be37feda6c"
+          }
+        },
+        {
+          "client_id": "559653813679-i8bu0fuiisn75687jv6k8sr1dmghefii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJ-3vqax0hZbGQEnCD05BLItwu6xIbvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559653813679-i8bu0fuiisn75687jv6k8sr1dmghefii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
